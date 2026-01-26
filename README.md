@@ -78,20 +78,7 @@ Clones de interfaces famosas para praticar CSS e responsividade.
 ## 📝 **Sobre Mim**
 
 <div align="center"> <br> <i>"Aos 15 anos, já construindo meu futuro no desenvolvimento web!"</i>
-
-
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 
 </div> ```
-
-```javascript
-const dev = {
-  nome: "Alexandre da Silva Ribeiro",
-  idade: 15,
-  foco: "Desenvolvimento Front-end",
-  aprendendo: ["React", "TypeScript", "UI/UX"],
-  objetivo: "Primeira oportunidade como Desenvolvedor Júnior",
-  hobbies: ["Programação", "Tecnologia", "Aprender coisas novas"],
-  localizacao: "Resende, RJ"
-};
