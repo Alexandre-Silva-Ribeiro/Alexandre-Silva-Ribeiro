@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-orange?style=for-the-badge" alt="Status">
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexandre_ribeiro2010)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Alexandre-Silva-Ribeiro/portfolio)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Alexandre-Silva-Ribeiro/portifolio)
 
 </div>
 
