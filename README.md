@@ -75,10 +75,12 @@ Clones de interfaces famosas para praticar CSS e responsividade.
 
 ---
 
-## 📝 **Sobre Mim**
+## 📝 Sobre Mim
+<div align="center"> <br> Meu nome é Alexandre e sou apaixonado por programação desde pequeno. Aos 12 anos, já estava frente às linhas de código desenvolvendo meu primeiro "Hello World". Na época, achei que era apenas uma curiosidade passageira, mas, ao perceber que não há limites no universo da programação, mergulhei de cabeça nos estudos. Iniciei minha jornada como desenvolvedor full stack e, atualmente, atuo como front-end. Meu próximo passo é consolidar-me como full stack e, depois, seguir em direção ao meu grande sonho: desenvolver Inteligência Artificial. Acredito que, na programação, o único limite é até onde a imaginação pode nos levar.
 
-<div align="center"> <br> <i>"Aos 15 anos, já construindo meu futuro no desenvolvimento web!"</i>
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
 
-</div> 
+
+<i>"Aos 15 anos, já construindo meu futuro no desenvolvimento web!"</i>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"></div>
