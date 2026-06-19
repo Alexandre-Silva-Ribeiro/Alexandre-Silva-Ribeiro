@@ -70,7 +70,16 @@
 ## 💼 **Projetos de Estudo**
 
 ### 🎯 **[Portfólio]**
-Portfólio pessoal desenvolvido com HTML, CSS, JavaScript e Python para mostrar meus conhecimentos.
+
+Dev Card Interativo
+
+Projeto pessoal de portfólio desenvolvido com HTML, CSS, JavaScript e Python.
+
+Geração de página via Python
+Interface responsiva com CSS moderno
+Interatividade básica com JavaScript
+Foco em apresentação pessoal e aprendizado prático
+Scripts de Automação
 
 ### 📚 **[Projetos de Aprendizado]**
 Repositórios com exercícios e projetos pequenos para praticar desenvolvimento front-end e back-end.
