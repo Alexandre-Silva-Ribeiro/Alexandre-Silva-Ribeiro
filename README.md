@@ -68,11 +68,11 @@
 
 ## 💼 **Projetos de Estudo**
 
-### 🎯 **[Meu Portfólio]**
-Portfólio pessoal desenvolvido com HTML, CSS e JavaScript para mostrar meus projetos.
+### 🎯 **[Portfólio]**
+Portfólio pessoal desenvolvido com HTML, CSS, JavaScript e Python para mostrar meus conhecimentos.
 
 ### 📚 **[Projetos de Aprendizado]**
-Repositórios com exercícios e projetos pequenos para praticar desenvolvimento front-end.
+Repositórios com exercícios e projetos pequenos para praticar desenvolvimento front-end e back-end.
 
 ### 🔨 **[Clone de Interfaces]**
 Clones de interfaces famosas para praticar CSS e responsividade.
@@ -91,7 +91,7 @@ Acredito que a programação é uma ferramenta poderosa para resolver problemas 
 
 
 
-<i>"Aos 15 anos, já construindo meu futuro no desenvolvimento web!"</i>
+<i>"Aos 16 anos, já construindo meu futuro na programação"</i>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"></div>
