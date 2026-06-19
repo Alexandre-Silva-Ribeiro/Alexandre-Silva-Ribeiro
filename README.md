@@ -1,10 +1,10 @@
 ## Olá Pessoal 👋
 
-# 👨‍💻 **Alexandre da Silva Ribeiro** - Desenvolvedor Front-end
+# 👨‍💻 **Alexandre da Silva Ribeiro** - Desenvolvedor Python
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=github" alt="Front-end Developer">
+  <img src="https://img.shields.io/badge/Front--End-Developer-blue?style=for-the-badge&logo=github" alt="Python Developer">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-orange?style=for-the-badge" alt="Status">
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexandre_ribeiro2010)
