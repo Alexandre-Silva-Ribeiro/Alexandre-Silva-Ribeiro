@@ -80,7 +80,14 @@ Clones de interfaces famosas para praticar CSS e responsividade.
 ---
 
 ## 📝 Sobre Mim
-<div align="center"> <br> Meu nome é Alexandre e sou apaixonado por programação desde pequeno. Aos 12 anos, já estava frente às linhas de código desenvolvendo meu primeiro "Hello World". Na época, achei que era apenas uma curiosidade passageira, mas, ao perceber que não há limites no universo da programação, mergulhei de cabeça nos estudos. Iniciei minha jornada como desenvolvedor full stack e, atualmente, atuo como front-end. Meu próximo passo é consolidar-me como full stack e, depois, seguir em direção ao meu grande sonho: desenvolver Inteligência Artificial. Acredito que, na programação, o único limite é até onde a imaginação pode nos levar.
+<div align="center"> <br> Meu nome é Alexandre e tenho interesse por programação desde cedo. Aos 12 anos, tive meu primeiro contato com código ao escrever um “Hello World”, o que inicialmente parecia apenas uma curiosidade.
+
+Com o tempo, esse interesse evoluiu e se tornou parte dos meus estudos e objetivos profissionais. Hoje, venho me aprofundando em desenvolvimento web e Python, com foco em construir uma base sólida como desenvolvedor.
+
+Atualmente, estudo tanto front-end quanto back-end, buscando evoluir para um perfil full stack. Meu objetivo é continuar aprendendo e ganhando experiência prática, desenvolvendo projetos que me desafiem e contribuam para minha evolução na área de tecnologia.
+
+Acredito que a programação é uma ferramenta poderosa para resolver problemas reais e melhorar processos, e meu foco está em crescer dentro dessa área de forma consistente e aplicada.
+
 
 
 
