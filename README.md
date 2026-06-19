@@ -16,6 +16,7 @@
 - **Email:** alexceu87@gmail.com
 - **GitHub:** [Alexandre-Silva-Ribeiro](https://github.com/Alexandre-Silva-Ribeiro)
 - **Instagram:** [@alexandre_ribeiro2010](https://instagram.com/alexandre_ribeiro2010)
+- **Linkedin** [Alexandre da Silva Ribeiro](www.linkedin.com/in/alexandre-da-silva-ribeiro-a53433316)
 - **Idade:** 16 anos
 - **Localização:** Resende, Rio de Janeiro
 
